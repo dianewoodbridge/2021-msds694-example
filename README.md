@@ -1,4 +1,6 @@
 # 2021-msds694-example
-This includes weekly examples for USF MSDS694 (Distributed Computing) Class.
+This repository includes weekly examples for USF MSDS694 (Distributed Computing) Class.
 
-It requires python 3.7 or higher and Spark 2.4 or higher.
+More details about the each exercise is included in the course slides (uploaded in Canvas).
+
+All codes require python 3.7 or higher and Spark 2.4 or higher.
