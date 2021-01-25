@@ -8,8 +8,8 @@ All codes require python 3.7 or higher and Spark 2.4 or higher.
 ### Week 1
 1. Spark DataFrame creation exercises - using .toDF() and ss.createDataFrame()
 2. DataFrame Basic APIs 
- - select()
- - drop()
- - filter(),where()
- - withColumnRenamed(), withColumn() (Renaming and adding columns)
- - orderBy(), sort()
+    - select()
+    - drop()
+    - filter(),where()
+    - withColumnRenamed(), withColumn() (Renaming and adding columns)
+    - orderBy(), sort()
