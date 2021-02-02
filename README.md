@@ -13,3 +13,14 @@ All codes require python 3.7 or higher and Spark 2.4 or higher.
     - filter(),where()
     - withColumnRenamed(), withColumn() (Renaming and adding columns)
     - orderBy(), sort()
+
+### Week 2
+1. DataFrame APIs
+    - Scalar functions
+    - Aggregate functions
+    - Window functions
+    - UDF (User Defined functions)
+2. Registering DataFrame in the table catalog
+3. Loaindg/Writing DataFrame in various sources/types
+    - JSON, CSV, Parquet
+    - S3, RDBMS, MongoDB
