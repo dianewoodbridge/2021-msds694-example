@@ -24,3 +24,8 @@ All codes require python 3.7 or higher and Spark 2.4 or higher.
 3. Loaindg/Writing DataFrame in various sources/types
     - JSON, CSV, Parquet
     - S3, RDBMS, MongoDB
+
+### Week 3
+1. Main components of Spark MLlib
+2. Create a feature and apply ML algorithms
+3. Evaluate the model using cross validation and param grid builder.
